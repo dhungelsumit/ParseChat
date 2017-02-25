@@ -6,11 +6,11 @@ Time spent: 4 hours spent in total
 
 # User Stories
 
-Video Walkthrough
+#Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-# Video Walkthrough
+<img src='http://i.imgur.com/oAEOYRx.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with LiceCap.
 
