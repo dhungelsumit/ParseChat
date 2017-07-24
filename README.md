@@ -1,22 +1,14 @@
-# Lab - ParseChat
+# ParseChat
 
 ParseChat is a chat client using Parse.
 
-Time spent: 4 hours spent in total
-
-# User Stories
-
-#Video Walkthrough
+# Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
 <img src='http://i.imgur.com/oAEOYRx.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with LiceCap.
-
-#Notes
-
-Describe any challenges encountered while building the app.
 
 #  License
 
